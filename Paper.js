@@ -27,5 +27,6 @@
         imageMode(CENTER);
         image(this.image, 0, 0, this.r, this.r);
         pop();
+            console.log("Hi");
         }
     }
